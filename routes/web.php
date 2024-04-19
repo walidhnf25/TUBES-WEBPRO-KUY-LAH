@@ -106,3 +106,5 @@ Route::get('detailEvent', function () {
 Route::get('alamat', function () {
     return view('Alamat');
 });
+
+# --------------------------------------Done V1.0.0-------------------------------------------
