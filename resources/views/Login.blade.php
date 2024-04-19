@@ -10,7 +10,8 @@
     <link href="{{asset('assets/css/Login.css')}}" rel="stylesheet" />
     <link rel="stylesheet" href="" />
 
-    <title>Form Login</title>
+    <title>Formulir Login</title> 
+    <!-- Mengubah Formulir--> 
 </head>
 <body>
 
