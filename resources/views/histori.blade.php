@@ -64,7 +64,7 @@
                 </div>
     
                 <div class="element-di-bawah">
-                    <table class="table table-hover"> <!-- Tambahkan class table-hover di sini -->
+                    <table class="table table-hover"> <!-- Tambah class table-hover di sini -->
                         <tr>
                             <th>Nama Event</th>
                             <th>Tanggal</th>
