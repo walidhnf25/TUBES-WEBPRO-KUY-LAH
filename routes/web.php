@@ -45,7 +45,7 @@ Route::get('/Registrasi', [RegistrasiController::class, 'index'])->middleware('g
 
 Route::post('/Registrasi', RegistrasiController::class .'@store')->name('users.store');
 
-# ---------------------------------------------------------------------------------
+# --------------------------------------Routing Full-------------------------------------------
 
 
 
