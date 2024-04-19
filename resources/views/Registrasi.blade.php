@@ -31,7 +31,7 @@
                         @enderror
                     </div>
 
-                    {{-- <div class="mb-3">
+                    <div class="mb-3">
                         <label>Alamat Email</label>
                         <input type="email" name ="email" class="form-control @error('email') is-invalid @enderror" id="email" placeholder="Masukkan Alamat Email Anda" required value="{{old('email')}}">
                         @error('email')
@@ -39,7 +39,7 @@
                             {{$message}}
                         </div>
                         @enderror
-                    </div> --}}
+                    </div>
 
                     <div class="mb-3">
                         <label>Tempat/Tanggal Lahir</label>
