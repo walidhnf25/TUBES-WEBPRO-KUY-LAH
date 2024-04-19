@@ -80,4 +80,5 @@ class EventsController extends Controller
 
     return view('search')->with('events', $events); // Mengembalikan view search.blade.php dengan data events
     }
+    //kode kososng
 }
