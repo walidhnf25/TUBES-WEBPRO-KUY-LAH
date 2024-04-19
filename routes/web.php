@@ -45,7 +45,7 @@ Route::get('/Registrasi', [RegistrasiController::class, 'index'])->middleware('g
 
 Route::post('/Registrasi', RegistrasiController::class .'@store')->name('users.store');
 
-# ---------------------------------------------------------------------------------
+# --------------------------------------Routing Full-------------------------------------------
 
 
 
@@ -106,3 +106,5 @@ Route::get('detailEvent', function () {
 Route::get('alamat', function () {
     return view('Alamat');
 });
+
+# --------------------------------------Completed Version 1.0.0-------------------------------------------
