@@ -19,7 +19,7 @@
       </div>
     </div>
     <div class="event-text mt-4">
-      <h2 id="event-details">Event Details Will Appear Here</h2>
+      <h2 id="event-details">Detail Event</h2>
     </div>
   </div>
   <footer></footer>
