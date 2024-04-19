@@ -38,13 +38,13 @@
             // Adding sample events to the calendar
             calendar.addEvent({
                 title: 'Test Event 1',
-                start: '2023-10-08T12:30:00',
-                end: '2023-10-08T13:30:00'
+                start: '2024-04-19T12:30:00',
+                end: '2024-04-19T13:30:00'
             });
             calendar.addEvent({
                 title: 'Test Event 2',
-                start: '2023-10-25T12:30:00',
-                end: '2023-10-25T13:30:00'
+                start: '2024-04-25T12:30:00',
+                end: '2024-04-25T13:30:00'
             });
         });
     </script>

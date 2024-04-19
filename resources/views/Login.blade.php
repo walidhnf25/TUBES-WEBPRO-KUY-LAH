@@ -38,7 +38,7 @@
                     <h2 class="card-title text-center">W e l c o m e</h2>
                     <hr />
                     <div class="mb-3">
-                        <label for="noHP">No Handphone</label>
+                        <label for="noHP">Nomor Handphone</label>
                         <input type="noHP" class="form-control" id="noHP" placeholder="Masukkan No Handphone" autofocus required>
                         @error('noHP')
                         <div class="invalid-feedback">

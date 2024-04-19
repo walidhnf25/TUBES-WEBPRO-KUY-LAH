@@ -56,9 +56,9 @@
             <a id="upload-event" href="Events">Upload Event</a>
         </div>
         <div>
-            <h1 class="mb-5">Event Kamu</h1>
+            <h1 class="mb-5">Event Anda</h1>
             <div class="row">
-            <!-- Event Kamu section with a carousel -->
+            <!-- Event Anda section with a carousel -->
             <div id="eventCarousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 @php
